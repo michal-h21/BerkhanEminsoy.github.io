@@ -9,6 +9,8 @@ size, disability, ethnicity, gender identity and expression, level of experience
 nationality, personal appearance, race, religion, or sexual identity and
 orientation.
 
+### My pledge
+
 ## Our Standards
 
 Examples of behavior that contributes to creating a positive environment
@@ -31,6 +33,8 @@ advances
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
+### My Standards
+
 ## Our Responsibilities
 
 Project maintainers are responsible for clarifying the standards of acceptable
@@ -42,6 +46,8 @@ reject comments, commits, code, wiki edits, issues, and other contributions
 that are not aligned to this Code of Conduct, or to ban temporarily or
 permanently any contributor for other behaviors that they deem inappropriate,
 threatening, offensive, or harmful.
+
+### My responsibilities
 
 ## Scope
 
