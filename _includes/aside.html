@@ -1,0 +1,12 @@
+<aside class="asideLeft"> <!--Content for class "asideLeft" Goes Here-->
+  <div class="asideLeft__container">
+    <p class="p-name">{%- if site.author -%}{{ site.author | escape }}{%- else -%}{{ site.title | escape }}{%- endif -%}</p>
+    <p>{{- site.description | escape -}}</p>
+    <address class="asideLeft__contact">
+      <ul class="contact-list">
+        <li>{%- if site.email -%}<a class="u-email" href="mailto:{{ site.email }}">email</a>{%- endif -%}</li>
+        <li>{%- include social.html -%}</li>
+      </ul>
+    </address>
+  </div>
+</aside> <!-- End Aside -->
